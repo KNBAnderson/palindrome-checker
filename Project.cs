@@ -18,5 +18,5 @@ namespace Palindromes {
         Console.WriteLine( word + " is not a palindrome");
       }
     }
-}
+  }
 }
